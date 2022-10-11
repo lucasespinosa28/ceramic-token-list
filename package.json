@@ -8,7 +8,7 @@
 		"@glazed/datamodel": "^0.1.2",
 		"@glazed/devtools": "^0.1.3",
 		"@glazed/did-datastore": "^0.1.4",
-		"dids": "^2.4.0",
+		"dids": "^2.4.3",
 		"key-did-provider-ed25519": "^1.1.0",
 		"key-did-resolver": "^1.4.0",
 		"uint8arrays": "^3.0.0"
